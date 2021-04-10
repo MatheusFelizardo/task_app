@@ -15,7 +15,7 @@ ___
 
 ## :information_source: Sobre
 
-Aplicativo criado para estudo do framework Laravel, mySQL e prática de React. Aproveitei para utilizar o Tailwindcss para testar. </br>
+Aplicativo de administração de tarefas criado para estudo e prática de criação de APIs com o framework Laravel, mySQL e React. Aproveitei para utilizar o Tailwindcss para testar. </br>
 
 ## :seedling: Requisitos Mínimos
 
