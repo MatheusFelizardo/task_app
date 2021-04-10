@@ -11,7 +11,7 @@ ___
 
 ___
 
-<img src="https://i.ibb.co/09bnw4Z/Screenshot-32.png" width="1200">
+<img src="https://i.ibb.co/DQ0DL44/Screenshot-33.png" width="1200">
 
 ## :information_source: Sobre
 
